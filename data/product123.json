@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "name": "เซ็ตดินสอ",
+    "imageUrl": "https://fx.lnwfile.com/_/fx/_resize/250/333/44/g3/zf.jpg",   
+    "Price": "78",
+    "stock":"10"
+  },
+  {
+    "id": 1,
+    "name": "เซ็ตเครื่องเขียน A01",
+    "Price": "190",
+    "imageUrl": "https://fx.lnwfile.com/_/fx/_resize/250/333/v1/fs/5e.jpg",
+    "stock":"15"
+  },
+  {
+    "id": 2,
+    "name": "เซ็ตเครื่องเขียน A02",
+    "imageUrl": "https://fx.lnwfile.com/_/fx/_resize/250/333/87/pq/e1.jpg",   
+    "Price": "90",
+    "stock":"12"
+  },
+  {
+    "id": 3,
+    "name": "เซ็ตเครื่องเขียน A03",
+    "imageUrl": "https://fx.lnwfile.com/_/fx/_resize/250/333/yc/n4/7i.jpg",    
+    "Price": "110",
+    "stock":"14"
+  },
+  {
+    "id": 4,
+    "name": "เซ็ตเครื่องเขียน A04",
+    "imageUrl": "https://fx.lnwfile.com/_/fx/_resize/250/333/4w/ug/wy.jpg",   
+    "Price": "170",
+    "stock":"8"
+  },
+  {
+    "id": 5,
+    "name": "เซ็ตเครื่องเขียน A5",
+    "imageUrl": "https://fx.lnwfile.com/_/fx/_resize/250/333/y7/yp/0o.jpg",    
+    "Price": "150",
+    "stock":"5"
+  }
+]
+
+
